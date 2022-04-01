@@ -1,0 +1,196 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merienda&display=swap');
+
+
+.logo-wrapper{
+  display: flex;
+}
+
+.header{
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  align-content: center;
+  justify-content: space-between;
+  padding: 0.7rem 1rem;
+  position: sticky;
+  top: 0;
+  background-color: #ffffff;
+  z-index: 3;
+}
+
+.box-shadow{
+  box-shadow: 0 5px 10px rgb(0 0 0 / 20%);
+  margin-bottom: 20px
+}
+
+
+.logo {
+    font-size: 15px;
+    color: rgb(236, 189, 57);
+    font-family: 'Merienda', cursive;
+    text-align: left; 
+    margin-left: 15px;
+
+    
+  }
+
+.search-box{
+  
+    display: flex;
+    justify-content: center;
+    border: 2px solid #c5c5c5;
+    border-radius: 0.5rem;
+    padding: 0 0.5rem;
+    margin: auto;
+    width: 30%;
+   
+} 
+
+.search-btn{
+  background-color: #ffffff;
+}
+
+.search-box input{
+    border: none;
+    flex-grow: 1;
+}
+
+.search-box .fa-search{
+    padding: 0.5rem;
+}
+
+input {
+  outline: none;
+  border: 1px solid #c5c5c5;
+  padding: 0.6rem 1rem;
+  font-size: 1rem;
+  border-radius: 0.4rem;
+}
+
+
+.btn {
+    border-radius: 0.5rem;
+    padding: 10px 10px 10px;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 50px;
+}
+
+.btn-primary{
+  color: white;
+  background-color: rgb(240, 200, 92);
+}
+
+
+button{
+  border: none;
+  cursor: pointer;
+}
+  
+.grid-container{
+    display: grid;
+    grid-gap: 10px;
+    justify-content: space-between;
+    padding-left: 10px;
+    padding-right: 10px;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 3fr));
+
+}
+
+/* card content styling */
+
+.card-container{
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  max-width: 300px;
+  /* max-width: 1100px;
+	margin: 0 auto; */
+
+}
+
+img{
+  width: 10rem;
+  height: 5rem;
+  object-fit: cover;
+}
+
+.card-title{
+  font-family: 'Merienda';
+  font-size: 24px;
+  font-weight: 600;
+  margin-top: 16px;
+
+
+}
+
+.unicode{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 15px;
+  font-weight: 100;
+  /* margin-top: 10px; */
+
+}
+
+.population{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 18px;
+  font-weight: 500;
+  
+}
+
+.capital{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.btn-edit{
+  border-radius: 0.5rem;
+    padding: 10px 10px 10px;
+    font-weight: 500;
+    /* display: flex; */
+    /* justify-content: center;
+    align-items: center; */
+    background-color: rgb(240, 200, 92);
+    color: white;
+    cursor: pointer;
+
+}
+
+.btn-delete{
+  border-radius: 0.5rem;
+    padding: 10px 10px 10px;
+    font-weight: 500;
+    /* display: flex; */
+    /* justify-content: center;
+    align-items: center; */
+    margin: 0 20px;
+    background-color: rgb(240, 200, 92);
+    color: white;
+    cursor: pointer;
+
+}
+
+.row{
+  text-align: left;
+  /* margin-left:-20px;
+  margin-right: -20px; */
+}
+
+/* footer */
+
+.wrapper{
+    width: 94%;
+    max-width: 1440px;
+   align-items: center;
+
+}
+
+footer{
+  display: flex;
+  justify-content: center;
+}

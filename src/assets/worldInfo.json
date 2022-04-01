@@ -1,0 +1,112 @@
+{
+    "countryItem": [
+        {
+            "id": "1",
+            "name": "Ascension Island",
+            "emoji": "🇦🇨",
+            "unicode": "U+1F1E6 U+1F1E8",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AC.svg",
+            "population": "806",
+            "capital": "Jamestown"
+        },
+        {
+            "id": "2",
+            "name": "Andorra",
+            "emoji": "🇦🇩",
+            "unicode": "U+1F1E6 U+1F1E9",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AD.svg",
+            "population": "77,256",
+            "capital": "Andorra la Vella"
+        },
+        {
+            "id": "3",
+            "name": "United Arab Emirates",
+            "emoji": "🇦🇪",
+            "unicode": "U+1F1E6 U+1F1EA",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AE.svg",
+            "population": "8.84 million",
+            "capital": "Abu Dhabi"
+        },
+        {
+            "id": "4",
+            "name": "Afghanistan",
+            "emoji": "🇦🇫",
+            "unicode": "U+1F1E6 U+1F1EB",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AF.svg",
+            "population": "37.30 million",
+            "capital": "Kabul"
+        },
+        {
+            "id": "5",
+            "name": "Cocos (Keeling) Islands",
+            "emoji": "🇨🇨",
+            "unicode": "U+1F1E8 U+1F1E8",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CC.svg",
+            "population": "544",
+            "capital": "West Islands"
+        },
+        {
+            "id": "6",
+            "name": "Congo - Kinshasa",
+            "emoji": "🇨🇩",
+            "unicode": "U+1F1E8 U+1F1E9",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CD.svg",
+            "population": "92.08 million",
+            "capital": "Kinshasa"
+        },
+        {
+            "id": "7",
+            "name": "Central African Republic",
+            "emoji": "🇨🇫",
+            "unicode": "U+1F1E8 U+1F1EB",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CF.svg",
+            "population": "4,974,422",
+            "capital": "Bangui"
+        },
+        {
+            "id": "8",
+            "name": "Congo - Brazzaville",
+            "emoji": "🇨🇬",
+            "unicode": "U+1F1E8 U+1F1EC",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CG.svg",
+            "population": "2,470,000",
+            "capital": "Brazzavielle"
+        },
+        {
+            "id": "9",
+            "name": "Switzerland",
+            "emoji": "🇨🇭",
+            "unicode": "U+1F1E8 U+1F1ED",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CH.svg",
+            "population": "8,764,384",
+            "capital": "Bern"
+        },
+        {
+            "id": "10",
+            "name": "Côte d’Ivoire",
+            "emoji": "🇨🇮",
+            "unicode": "U+1F1E8 U+1F1EE",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CI.svg",
+            "population": "27.09 million",
+            "capital": "Yamoussoukro"
+        },
+        {
+            "id": "11",
+            "name": "Dominican Republic",
+            "emoji": "🇩🇴",
+            "unicode": "U+1F1E9 U+1F1F4",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DO.svg",
+            "population": "10,953,703",
+            "capital": "Santo Domingo"
+        },
+        {
+            "id": "12",
+            "name": "North Korea",
+            "emoji": "🇰🇵",
+            "unicode": "U+1F1F0 U+1F1F5",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KP.svg",
+            "population": "25,974,747",
+            "capital": "Pyongyang"
+        }
+    ]
+}
